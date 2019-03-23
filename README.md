@@ -401,7 +401,8 @@
 
 - [Programador web: Cookies y Sesiones en PHP](https://www.udemy.com/programador-web-php-cookies-y-sesiones/ "Programador web: Cookies y Sesiones en PHP")
 
-- [Función "mail" de PHP: Aprende a enviar emails con PHP](https://www.udemy.com/enviar-email-con-php/ "Función "mail" de PHP: Aprende a enviar emails con PHP")
+
+- [Función "mail" de PHP: Aprende a enviar emails con PHP](https://www.udemy.com/enviar-email-con-php/)
 
 - [PHP Eğitim Seti 1](https://www.udemy.com/php-egitim-seti-1-a/ "PHP Eğitim Seti 1")
 
