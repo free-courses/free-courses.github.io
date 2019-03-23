@@ -1,4 +1,5 @@
 -  [Angular](#angular)
+-  [Bash](#bash)
 -  [Go](#go)
 -  [Java](#java)
 -  [Php](#php)
@@ -107,7 +108,22 @@
 - [AngularJS for Beginners, Single-Page Applications Made Easy](https://www.udemy.com/angularjs-tutorial/)
 
 - [AngularJS Masterclass - Deep Dive & Understand AngularJS](https://www.udemy.com/angularjs-masterclass/)
+
 - [Learn Angular 7 Boilerplate in Hindi (get a CRUD project)](https://www.udemy.com/angular-7-boilerplate-crud-hindi/)
+
+## Bash
+- [Bash Shell scripting](https://www.udemy.com/complete-bash-shell-scripting/ "Bash Shell scripting")
+
+- [Command Line Essentials: Git Bash for Windows](https://www.udemy.com/git-bash/ "Command Line Essentials: Git Bash for Windows")
+
+- [Linux Command Line for Beginners](https://www.udemy.com/linux-command-line-for-beginners-42/ "Linux Command Line for Beginners")
+
+- [Bash Basics for Cloud Computing](https://www.udemy.com/bash-basics-for-cloud-computing/ "Bash Basics for Cloud Computing")
+
+- [Bash - Intérprete de Comandos de Linux. Aprende desde cero](https://www.udemy.com/shell-interprete-de-comandos-de-linux-aprende-desde-cero/ "Bash - Intérprete de Comandos de Linux. Aprende desde cero")
+
+- [Terminal Linux](https://www.udemy.com/terminal-de-comandos-linux/ "Terminal Linux")
+
 ## Go
 - [Golang - JumpStart on Cloud](https://www.udemy.com/goprogramming/ "Golang - JumpStart on Cloud")
 
