@@ -1,9 +1,10 @@
--  * [Angular](#angular)
--  * [Go](#go)
--  * [Java](#java)
--  * [Python](#python)
--  * [React](#react)
--  * [Vuejs](#vuejs)
+-  [Angular](#angular)
+-  [Go](#go)
+-  [Java](#java)
+-  [Php](#php)
+-  [Python](#python)
+-  [React](#react)
+-  [Vuejs](#vuejs)
 
 ## Angularjs
 - [Angular 5 y TypeScript - Curso de introducción paso a paso](https://www.udemy.com/angular-5-y-typescript-curso-de-introduccion-paso-a-paso/)
@@ -295,7 +296,183 @@
 
 - [Selenium Java Framework from Scratch](https://www.udemy.com/selenium-java-framework-from-scratch/ "Selenium Java Framework from Scratch")
 
+## Php
 
+- [THe PHP Mega Course](https://www.udemy.com/the-php-mega-course/ "THe PHP Mega Course")
+
+- [【最短30分でできる!】Laravel5.7入門: 初心者でも簡単! ブラウザだけでLaravelを使ったWeb開発！](https://www.udemy.com/paizacloud-laravel/ "【最短30分でできる!】Laravel5.7入門: 初心者でも簡単! ブラウザだけでLaravelを使ったWeb開発！")
+
+- [Introducción a Laravel 5 - Primeros pasos con este framework](https://www.udemy.com/introduccion-a-laravel-5-primeros-pasos-framework-php/ "Introducción a Laravel 5 - Primeros pasos con este framework")
+
+- [Introdução ao Laravel (5.3)](https://www.udemy.com/introducao-ao-laravel-53/ "Introdução ao Laravel (5.3)")
+
+- [Introducción al Desarrollo de Aplicaciones Web con Symfony](https://www.udemy.com/introduccion-al-desarrollo-de-aplicaciones-web-con-symfony/ "Introducción al Desarrollo de Aplicaciones Web con Symfony")
+
+- [ORIENTAÇÃO A OBJETOS  EM JAVA, C#, PYTHON, PHP E JAVASCRIPT](https://www.udemy.com/orientacao-a-objetos-em-java-c-python-php-e-javascript/ "ORIENTAÇÃO A OBJETOS  EM JAVA, C#, PYTHON, PHP E JAVASCRIPT")
+
+- [Learn PHP Basic  in -Urdu](https://www.udemy.com/learn-php-basic-in-urdu/ "Learn PHP Basic  in -Urdu")
+
+- [Web Programming untuk Pemula](https://www.udemy.com/web-programming-wp/ "Web Programming untuk Pemula")
+
+- [Framework CodeIgniter para principiantes: Primeros pasos](https://www.udemy.com/codeigniter-para-principiantes-primeros-pasos/ "Framework CodeIgniter para principiantes: Primeros pasos")
+
+- [Learn PHP Basic in -Pashto](https://www.udemy.com/learn-php-basic-in-pashto/ "Learn PHP Basic in -Pashto")
+
+- [Aprende Guardar, Consultar, Editar, Eliminar, Sesión con Php](https://www.udemy.com/developer/ "Aprende Guardar, Consultar, Editar, Eliminar, Sesión con Php")
+
+- [Stripe & PHP pour votre site web - Stripe & PHP for website](https://www.udemy.com/stripe-php-pour-votre-site-web-stripe-php-for-website/ "Stripe & PHP pour votre site web - Stripe & PHP for website")
+
+- [Como Crear un CRUD con PHP y SQL Server](https://www.udemy.com/como-crear-un-crud-con-php-y-sql-server/ "Como Crear un CRUD con PHP y SQL Server")
+
+- [Actualización PHP 7](https://www.udemy.com/actualizacion-php-7/ "Actualización PHP 7")
+
+- [✔Desarrollo de sistemas web en PHP con el framework POG.](https://www.udemy.com/crea-un-crud-con-pog-php-object-generator-en-5-minutos/ "✔Desarrollo de sistemas web en PHP con el framework POG.")
+
+- [Learn PHP in Urdu/Hindi](https://www.udemy.com/learn-php-in-urduhindi/ "Learn PHP in Urdu/Hindi")
+
+- [Criar aplicativos com  Ionic 3 e Laravel (PHP) com MongoDB](https://www.udemy.com/criar-aplicativos-com-ionic-3-e-laravelphp-com-mongodb/ "Criar aplicativos com  Ionic 3 e Laravel (PHP) com MongoDB")
+
+- [PHP framework programming](https://www.udemy.com/php-framework-programming-php/ "PHP framework programming")
+
+- [PHP Mysql CRUD Tutorial in Hindi](https://www.udemy.com/php-mysql-crud-tutorial-in-hindi/ "PHP Mysql CRUD Tutorial in Hindi")
+
+- [从零开始使用homebrew多版本php环境搭建](https://www.udemy.com/homebrewphp/ "从零开始使用homebrew多版本php环境搭建")
+
+- [Laravel homestead Improved per php 7](https://www.udemy.com/laravel-homestead-improved-laravel-php/ "Laravel homestead Improved per php 7")
+
+- [curso de programación desde cero](https://www.udemy.com/curso-de-programacion-desde-cero/ "curso de programación desde cero")
+
+- [Introduction au Développement Web](https://www.udemy.com/introduction-au-developpement-web/ "Introduction au Développement Web")
+
+- [「PHP/MySQL　Cloud9&Xamppによる環境構築 (wordpressインストールまで)」](https://www.udemy.com/phpmysql-wordpress/ "「PHP/MySQL　Cloud9&Xamppによる環境構築 (wordpressインストールまで)」")
+
+- [Introduccion a CodeIgniter](https://www.udemy.com/introduccion-codeigniter/ "Introduccion a CodeIgniter")
+
+- [Programming an average forum using PHP](https://www.udemy.com/forum-forum/ "Programming an average forum using PHP")
+
+- [Laravel Türkçe Eğitim Seti](https://www.udemy.com/laravel-turkce-egitim-seti/ "Laravel Türkçe Eğitim Seti")
+
+- [learn php programming -Urdu](https://www.udemy.com/learn-php-programming-urdu/ "learn php programming -Urdu")
+
+- [Desarrollador web: Programación estructural en PHP](https://www.udemy.com/php-mczy/ "Desarrollador web: Programación estructural en PHP")
+
+- [PHP ilə Blog websaytınızı yaradın.(Bootstrap, Phpmyadmin)](https://www.udemy.com/php-ile-blog-websaytiniz-yaradin-create-your-blog/ "PHP ilə Blog websaytınızı yaradın.(Bootstrap, Phpmyadmin)")
+
+- [PHP básico](https://www.udemy.com/php-com-banco-de-dados-mysql-server/ "PHP básico")
+
+- [PHP Eğitim Seti](https://www.udemy.com/gorseltv-mysql-ile-php-giris-gorsel-egitim/ "PHP Eğitim Seti")
+
+- [PHP para quem entende PHP](https://www.udemy.com/php-para-quem-entende-php/ "PHP para quem entende PHP")
+
+- [Aprende programación básica con PHP](https://www.udemy.com/aprende-programacion-basica-con-php/ "Aprende programación básica con PHP")
+
+- [Davud Hoca ile PHP 7](https://www.udemy.com/php7-yeni-ozellikleri/ "Davud Hoca ile PHP 7")
+
+- [Aprende PHP desde Cero - Nivel Básico](https://www.udemy.com/aprende-php-desde-cero-nivel-basico-2019/ "Aprende PHP desde Cero - Nivel Básico")
+
+- [Introducción teórica a los frameworks de desarrollo para PHP](https://www.udemy.com/introduccion-teorica-a-los-framework-de-desarrollo-para-php/ "Introducción teórica a los frameworks de desarrollo para PHP")
+
+- [Aprende a programar en php desde cero](https://www.udemy.com/curso-basico-de-programacion-en-php/ "Aprende a programar en php desde cero")
+
+- [Sıfırdan PHP ve MySQL Eğitim Serisi](https://www.udemy.com/php-egitim-seti/ "Sıfırdan PHP ve MySQL Eğitim Serisi")
+
+- [Como crear documentos PDF en PHP - Generar reportes PDF](https://www.udemy.com/como-crear-documentos-pdf-en-php-generar-reportes-pdf/ "Como crear documentos PDF en PHP - Generar reportes PDF")
+- [PHP & MYSQLI in Arabic](https://www.udemy.com/php-mysqli-in-arabic/ "PHP & MYSQLI in Arabic")
+
+- [非エンジニアでも学べるPHP入門講座](https://www.udemy.com/techacademy-php/ "非エンジニアでも学べるPHP入門講座")
+
+- [Davud Hoca ile PHP ile Nesne Yönelimli Programlama](https://www.udemy.com/gorseltv-php-ile-nesne-yonelimli-programlama-oop/ "Davud Hoca ile PHP ile Nesne Yönelimli Programlama")
+
+- [Programador web: Cookies y Sesiones en PHP](https://www.udemy.com/programador-web-php-cookies-y-sesiones/ "Programador web: Cookies y Sesiones en PHP")
+
+- [Función "mail" de PHP: Aprende a enviar emails con PHP](https://www.udemy.com/enviar-email-con-php/ "Función "mail" de PHP: Aprende a enviar emails con PHP")
+
+- [PHP Eğitim Seti 1](https://www.udemy.com/php-egitim-seti-1-a/ "PHP Eğitim Seti 1")
+
+- [Login com validação e flash messages (PHP)](https://www.udemy.com/login-com-validacao-e-flash-messages-php/ "Login com validação e flash messages (PHP)")
+
+- [Login com validação e flash messages (PHP)](https://www.udemy.com/login-com-validacao-e-flash-messages-php/ "Login com validação e flash messages (PHP)")
+
+- [Dasar-dasar PHP untuk Pemula](https://www.udemy.com/php-basic-pb/ "Dasar-dasar PHP untuk Pemula")
+
+- [E-Commerce PHP Complete Project in Urdu & Hindi (PHP&MySQL)](https://www.udemy.com/e-commerce-php-complete-project-in-urdu-hindi-phpmysql/ "E-Commerce PHP Complete Project in Urdu & Hindi (PHP&MySQL)")
+
+- [Temelden HTML ve PHP](https://www.udemy.com/temelden-html-ve-php/ "Temelden HTML ve PHP")
+
+- [PHP with MySQL- Procedural Part](https://www.udemy.com/php-with-mysql-procedrual-part/ "PHP with MySQL- Procedural Part")
+
+- [php basics for beginners](https://www.udemy.com/php-basics-for-biggeners/ "php basics for beginners")
+
+- [php function with MySQL (Insert, Update and Delete)](https://www.udemy.com/php-function-with-mysql-insert-update-and-delete/ "php function with MySQL (Insert, Update and Delete)")
+
+- [Express course - Develop Web Apps/SaaS with PHP and ATK](https://www.udemy.com/web-apps-with-php-and-atk/ "Express course - Develop Web Apps/SaaS with PHP and ATK")
+
+- [Intro to PHP Web Application Development with Symfony](https://www.udemy.com/intro-to-php-web-application-development-with-symfony/ "Intro to PHP Web Application Development with Symfony")
+- [PHP Codeigniter Tutorial for Beginners and Intermediates](https://www.udemy.com/php-codeigniter-tutorial-for-beginners-and-intermediates/ "PHP Codeigniter Tutorial for Beginners and Intermediates")
+
+- [CodeIgniter framework basic tutorial - (version 3 & above)](https://www.udemy.com/codeigniter-framework/ "CodeIgniter framework basic tutorial - (version 3 & above)")
+
+- [Introduction to Laravel 4](https://www.udemy.com/introduction-to-laravel-4/ "Introduction to Laravel 4")
+
+- [Make Sublime Coders Friendly](https://www.udemy.com/sublime-text-editor-rapid-development-amazing-plugins/ "Make Sublime Coders Friendly")
+
+- [CCNA MPLS Core technologies and MPLS Layer 3 VPNs: Exam prep](https://www.udemy.com/ccna-mpls-core-technologies-and-mpls-layer-3-vpns-exam-prep/ "CCNA MPLS Core technologies and MPLS Layer 3 VPNs: Exam prep")
+
+- [Master MongoDB, the NOSQL leader with Clarity and Confidence](https://www.udemy.com/learn-mongodb-the-nosql-leader-with-clarity-and-confidence/ "Master MongoDB, the NOSQL leader with Clarity and Confidence")
+
+- [PHP 7 do Básico ao Intermediário](https://www.udemy.com/php-do-basico-ao-intermediario/ "PHP 7 do Básico ao Intermediário")
+
+- [PHP Yazabilirim-Temel PHP Eğitim Seti](https://www.udemy.com/php-yazabilirim-temel-php-egitim-seti/ "PHP Yazabilirim-Temel PHP Eğitim Seti")
+
+- [Introdução à Criação de Sites Dinâmicos com PHP](https://www.udemy.com/criacao-de-paginas-de-internet-dinamicas-com-php-basico/ "Introdução à Criação de Sites Dinâmicos com PHP")
+
+- [Introdução ao PHP orientado a objetos](https://www.udemy.com/php-orientado-a-objetos/ "Introdução ao PHP orientado a objetos")
+
+- [PHP PDO MySql kullanarak admin panelli site yapımı](https://www.udemy.com/php-pdo-mysql-kullanarak-admin-panelli-site-yapm/ "PHP PDO MySql kullanarak admin panelli site yapımı")
+
+- [Aprende PHP y MySQLi, conceptos básicos para principiantes.](https://www.udemy.com/php-para-principiantes/ "Aprende PHP y MySQLi, conceptos básicos para principiantes.")
+
+- [Boas práticas em PHP](https://www.udemy.com/boas-praticas-em-php/ "Boas práticas em PHP")
+
+- [PHP :basics for beginners](https://www.udemy.com/php-basics-for-beginners-new/ "PHP :basics for beginners")
+
+- [Web Development Course : laravel 5.5 ORM  and Raw PHP!](https://www.udemy.com/web-development-with-php-build-a-nice-job-recruitment-site/ "Web Development Course : laravel 5.5 ORM  and Raw PHP!")
+
+- [Build a Complete Registration and Login System using PHP](https://www.udemy.com/udemy-course-yash-sarjekar/ "Build a Complete Registration and Login System using PHP")
+
+- [PDO (PHP Data Objects)](https://www.udemy.com/pdo-php-data-objects/ "PDO (PHP Data Objects)")
+
+- [PHP Interview Questions & Answers](https://www.udemy.com/php-interview-questions-answers/ "PHP Interview Questions & Answers")
+
+- [Build CRUD Application - PHP & Mysql](https://www.udemy.com/build-crud-application-php-mysql/ "Build CRUD Application - PHP & Mysql")
+
+- [eCommerce Website in PHP & MySQLi (Urdu/Hindi)](https://www.udemy.com/ecommerce-website-in-php-hindi/ "eCommerce Website in PHP & MySQLi (Urdu/Hindi)")
+
+- [PHP & MySQL Tutorials For Beginners](https://www.udemy.com/everything-about-php-for-beginner/ "PHP & MySQL Tutorials For Beginners")
+
+- [Real Time Chat System Using PHP Mysql PDO and AJAX](https://www.udemy.com/real-time-chat-system-using-php-mysql-pdo-and-ajax/ "Real Time Chat System Using PHP Mysql PDO and AJAX")
+
+- [Learn AJAX with PHP from Scratch using jQuery](https://www.udemy.com/learn-ajax-with-php/ "Learn AJAX with PHP from Scratch using jQuery")
+
+- [PHP tutorial for beginners](https://www.udemy.com/php-tutorial-for-beginners-j/ "PHP tutorial for beginners")
+
+- [Learn what's new in PHP 7](https://www.udemy.com/php7-new-features/ "Learn what's new in PHP 7")
+
+- [Practical Understanding of PHP and MySQL](https://www.udemy.com/practical-understanding-of-php-and-myqsl-demo/ "Practical Understanding of PHP and MySQL")
+
+- [Building a Search Engine in PHP & MySQL](https://www.udemy.com/creating-a-search-engine-in-php/ "Building a Search Engine in PHP & MySQL")
+
+- [Learn PHP 7 This Way to Rise Above & Beyond Competition!](https://www.udemy.com/learn-php-5-and-7-this-way-to-rise-above-and-beyond-competition/ "Learn PHP 7 This Way to Rise Above & Beyond Competition!")
+
+- [Building a Chat System in AJAX & PHP](https://www.udemy.com/chat-system-in-php-ajax/ "Building a Chat System in AJAX & PHP")
+
+- [PHP Development](https://www.udemy.com/calebthevideomaker2-php-development-classes/ "PHP Development")
+
+- [Learn E-Commerce Website in PHP & MySQL From Scratch!](https://www.udemy.com/ecommerce-website-in-php-mysqli/ "Learn E-Commerce Website in PHP & MySQL From Scratch!")
+
+- [Beginner PHP and MySQL Tutorial](https://www.udemy.com/php-mysql-tutorial/ "Beginner PHP and MySQL Tutorial")
+
+- [Practical PHP: Master the Basics and Code Dynamic Websites](https://www.udemy.com/code-dynamic-websites/ "Practical PHP: Master the Basics and Code Dynamic Websites")
 ## Python
 - [Introduction To Python Programming](https://www.udemy.com/pythonforbeginnersintro/)
 
