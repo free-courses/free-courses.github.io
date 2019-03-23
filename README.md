@@ -1,5 +1,6 @@
 -  [Angular](#angular)
 -  [Bash](#bash)
+-  [Docker](#docker)
 -  [Go](#go)
 -  [Java](#java)
 -  [Php](#php)
@@ -123,6 +124,32 @@
 - [Bash - Intérprete de Comandos de Linux. Aprende desde cero](https://www.udemy.com/shell-interprete-de-comandos-de-linux-aprende-desde-cero/ "Bash - Intérprete de Comandos de Linux. Aprende desde cero")
 
 - [Terminal Linux](https://www.udemy.com/terminal-de-comandos-linux/ "Terminal Linux")
+
+## Docker
+- [Docker Essentials](https://www.udemy.com/docker-essentials/ "Docker Essentials")
+
+- [Docker for beginners](https://www.udemy.com/docker-for-beginners/ "Docker for beginners")
+
+- [Understanding Docker and using it for Selenium automation](https://www.udemy.com/understanding-docker-performing-selenium-automation/ "Understanding Docker and using it for Selenium automation")
+
+- [Just Enough Docker to be Dangerous](https://www.udemy.com/just-enough-docker/ "Just Enough Docker to be Dangerous")
+
+- [Deploying Containerized Applications Technical Overview](https://www.udemy.com/deploying-containerized-applications-technical-overview/ "Deploying Containerized Applications Technical Overview")
+
+- [Docker on Windows 10 and Server 2016](https://www.udemy.com/docker-on-windows/ "Docker on Windows 10 and Server 2016")
+
+- [Containers 101](https://www.udemy.com/containers-101/ "Containers 101")
+
+- [Net DevOps: Cisco  Python, Automation, NETCONF, SDN, Docker](https://www.udemy.com/net-devops-cisco-python-automation-netconf-sdn-docker/ "Net DevOps: Cisco  Python, Automation, NETCONF, SDN, Docker")
+
+- [GNS3, Docker, Open vSwitch, SDN, OpenDaylight and OpenFlow](https://www.udemy.com/gns3-docker-open-vswitch-sdn-opendaylight-and-openflow/ "GNS3, Docker, Open vSwitch, SDN, OpenDaylight and OpenFlow")
+
+- [Iniciando con Containers en Docker](https://www.udemy.com/iniciando-con-containers-en-docker/ "Iniciando con Containers en Docker")
+
+- [Installationsanleitung: Java, Maven, GIT, IntelliJ & Docker](https://www.udemy.com/installationsanleitung-art/ "Installationsanleitung: Java, Maven, GIT, IntelliJ & Docker")
+
+- [Criando Apis com Flask + JWT + SQLAlchemy (ORM)](https://www.udemy.com/criando-apis-com-flask-com-autenticacao-sqlalchemy/ "Criando Apis com Flask + JWT + SQLAlchemy (ORM)")
+
 
 ## Go
 - [Golang - JumpStart on Cloud](https://www.udemy.com/goprogramming/ "Golang - JumpStart on Cloud")
