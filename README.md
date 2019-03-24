@@ -5,7 +5,9 @@
 -  [Java](#java)
 -  [Php](#php)
 -  [Python](#python)
+- [Ruby](#ruby)
 -  [React](#react)
+-  [Swift](#swift)
 -  [Vuejs](#vuejs)
 
 ## Angularjs
@@ -721,7 +723,48 @@
 
 - [Python Django Framework Full Course - Learning with the Docs](https://www.youtube.com/watch?v=cI3FOYIMSYE)
 
+## Ruby
+- [8 Beautiful Ruby on Rails Apps in 30 Days & TDD - Immersive](https://www.udemy.com/8-beautiful-ruby-on-rails-apps-in-30-days/)
 
+- [Ruby on Rails a Beginners Guide](https://www.udemy.com/ruby-on-rails-a-beginners-guide-free/)
+
+- [Ruby Programming From Scratch : No Experience Required](https://www.udemy.com/ruby-smartherd/)
+
+- [Ruby Programming Quick Look](https://www.udemy.com/ruby-programming-for-beginners-quick-look/)
+
+- [Deploy Rails 5.2 with a TLD, Namecheap, Heroku, Codeanywhere](https://www.udemy.com/deploy-rails-on-heroku-codeanywhere-tld/)
+
+- [Learn Rails: Quickly Code, Style and Launch 4 Web Apps](https://www.udemy.com/learn-rails/)
+
+- [Building a Ruby on Rails Application with Neo4j](https://www.udemy.com/building-a-ruby-on-rails-application-with-neo4j/)
+
+- [Ruby for Absolute Beginners!](https://www.udemy.com/ruby-for-absolute-beginners/)
+
+- [Introduction to Ruby on Rails](https://www.udemy.com/introduction-to-ruby-on-rails/)
+
+- [Ruby on Rails 5 Tutorial: Build web application in 30minutes](https://www.udemy.com/paizacloud-ruby-on-rails-en/)
+
+- [Building Rails app with Wistia and Heroku for Newbies](https://www.udemy.com/building-rails-app-with-wistia-and-heroku-for-newbies/)
+
+- [Complete Ruby Tutorial for Beginners](https://www.udemy.com/ruby-tutorial-for-beginners/)
+
+- [Setup OS X development environments](https://www.udemy.com/setup-os-x-development-environments/)
+
+- [Ruby Para Iniciantes](https://www.udemy.com/ruby-para-iniciantes/)
+
+- [Ruby on Rails 5 na Prática](https://www.udemy.com/ruby-on-rails-5-na-pratica/)
+
+- [【最短30分でできる!】Ruby on Rails入門: 初心者でも簡単! ブラウザだけでRailsを使ったWeb開発！](https://www.udemy.com/paizacloud-ruby-on-rails/)
+
+- [Apprendre ruby](https://www.udemy.com/apprendre-ruby/)
+
+- [Học Ruby on Rails Căn Bản](https://www.udemy.com/hoc-ruby-on-rails-can-ban/)
+
+- [Desarrollas tus aplicaciones usando ruby](https://www.udemy.com/crear-aplicaciones-con-ruby/)
+
+- [Curso de Testes para Ruby on Rails com RSpec](https://www.udemy.com/curso-de-testes-ruby-com-rspec/)
+
+- [Ruby Programming Language - Full Course](https://www.youtube.com/watch?v=t_ispmWmdjY)
 ## React
 
 - [React basic in just 1 hour](https://www.udemy.com/react-basic-in-just-1-hour/)
@@ -774,7 +817,129 @@
 - [Learn Redux In One Video - Redux / React Tutorial](https://www.youtube.com/watch?v=9fHQI-dt7QU)
 
 - [React Fundamentals - Full Course for Beginners](https://www.youtube.com/watch?v=6Ied4aZxUzc)
+## Swift
+- [Lógica Programación: Aprende Programar en Cualquier Lenguaje](https://www.udemy.com/logica-programacion-aprende-programar-en-cualquier-lenguaje/)
 
+- [Curso de iniciación a Swift y Xcode](https://www.udemy.com/curso-de-iniciacion-a-swift-y-xcode/)
+
+- [ELZERO IOS 11#SWIFT 4 (34 APPS ) الشرح الوافي برمجه الايفون](https://www.udemy.com/elzero-ios-11swift-4-34-apps/)
+
+- [Jogos para iOS com Xcode Swift e SpriteKit](https://www.udemy.com/felpudospritekit/)
+
+- [Aprenda a fazer apps para iPhone - Swift e Firebase.](https://www.udemy.com/aprenda-a-fazer-apps-para-iphone/)
+
+- [iOS 9 und Swift 2.0 Einsteiger Kurs](https://www.udemy.com/ios-9-und-swift-20-einsteiger-kurs/)
+
+- [Swiftで本格的なInstagramを作ろう〜SNSの技術編](https://www.udemy.com/learn-howtomake-snsapp/)
+
+- [Curso iOS 12 y Swift 4 - Crea 3 Aplicaciones Geniales ](https://www.udemy.com/curso-ios-11-y-swift-4-crea-3-aplicaciones-geniales/)
+
+- [SpriteKit Einführung - Spieleentwicklung für iOS mit Swift 3](https://www.udemy.com/einfuhrung-in-spritekit-swift-30-ios-10/)
+
+- [Aprende Swift y SpriteKit con el juego piedra papel o tijera](https://www.udemy.com/aprende-swift-y-spritekit-con-el-juego-piedra-papel-o-tijera/)
+
+- [Swift 4: Основы (2018)](https://www.udemy.com/swift-4-basics/)
+
+- [Curso iOS y 11 Swift 4: Aprende a hacer un Bloc de Notas](https://www.udemy.com/crea-un-blog-de-notas-con-ios-11-y-swift-4/)
+
+- [تعلم برمجة تطبيقات الايفون من الصفر حتى الاحتراف swift](https://www.udemy.com/swift-22/)
+
+- [Паттерны проектирования в iOS, язык Swift](https://www.udemy.com/ios-design-patterns/)
+
+- [Swift 4.2 и Приложения под iOS и macOS: От новичка до профи](https://www.udemy.com/swift-42-ios-macos/)
+
+- [iOS 프로그래밍과 달콤한 스위프트(iOS programming with sweet swift)](https://www.udemy.com/ios-ios-programming-with-sweet-swift/)
+
+- [El completo desarrollador de iOS 10 - Crea apps con Swift 3](https://www.udemy.com/el-completo-desarrollador-de-ios-crea-apps-con-swift/)
+
+- [Programando Apps de IOS](https://www.udemy.com/programando-apps-para-ios/)
+
+- [開発知識ゼロから学ぶIOS開発/始めようアナタのiPhoneAPP開発/Xcode7.1 Swift2.0対応！](https://www.udemy.com/iphoneswift/)
+
+- [Crea una Agenda de Contactos con Core Data](https://www.udemy.com/app-iphone-con-ios-8-swift-y-core-data/)
+
+- [El lenguaje de programación Swift](https://www.udemy.com/el-lenguaje-de-programacion-swift/)
+
+- [SwiftでiMessage Cloneを作りながらメッセージに必要な技術を習得しよう](https://www.udemy.com/swift-make-message-app/)
+
+- [How To Make An App For Beginners (2018)](https://www.udemy.com/how-to-make-an-app-2018/)
+
+- [Learn Swift 4 : From Beginner to Advanced Swift Free lite](https://www.udemy.com/learn-swift-4-from-beginner-to-advanced-swift-free-lite/)
+
+- [Learn Swift 4 : From Beginner to Advanced Swift Free lite](https://www.udemy.com/learn-swift-4-from-beginner-to-advanced-swift-free-lite/)
+
+- [iOS9 Apple Watch Toolkit: Make Real Apps From Scratch](https://www.udemy.com/the-complete-apple-watch-course-make-real-apps-from-scratch/)
+
+- [Start 3D GIS iOS App Development in Swift](https://www.udemy.com/start-3d-gis-ios-app-development-in-swift/)
+
+- [Swift by Example; Make Apple Watch Apps with Apple Watchkit](https://www.udemy.com/swift-by-example-make-apple-watch-apps-with-apple-watchkit/)
+
+- [Introduction to Sprite Kit with Swift 3](https://www.udemy.com/introduction-to-sprite-kit-with-swift-3/)
+
+- [iOS Game Development in Swift 2](https://www.udemy.com/ios-game-development-in-swift-2/)
+
+- [Bitfountain Objective-C for iOS 9](https://www.udemy.com/bitfountain-objective-c-for-ios/)
+
+- [iOS App Development For Beginners - No Swift Skill Required](https://www.udemy.com/ios-app-development-for-beginners/)
+
+- [Clarity of Purpose--Don't Live Life Without It](https://www.udemy.com/introduction-to-a-life-on-purpose/)
+
+- [The Complete WordPress for Beginner! Swiftly Profit by HU](https://www.udemy.com/the-complete-wordpress-for-beginner-swiftly-profit-by-hu/)
+
+- [Iniciación a Swift - Mi primera App para iOS](https://www.udemy.com/curso-swift-3/)
+
+- [Aprendendo Swift do Iniciante ao Avançado. (Mac e Windows)](https://www.udemy.com/aprendendoswift3/)
+
+- [Curso Básico de Aplicativos para iOS em Swift](https://www.udemy.com/felpudoiosapps/)
+
+- [Swift IOS 9 الدورة الشاملة لتطوير وبناء تطبيقات](https://www.udemy.com/swift-ios-9/)
+
+- [Язык программирования Swift](https://www.udemy.com/swift-basic/)
+
+- [Swift and XCode دورة أساسيات البرمجة بلغة سويفت](https://www.udemy.com/swift3-and-xcode8-arabic/)
+
+- [تصميم تطبيقات حقيقيه للايفون swift 3-2.x ios9-10 (2 apps)](https://www.udemy.com/swift-3-2x-ios9-10-2-apps/)
+
+- [Swift 4 - UIKit от начинающего до профессионала Free](https://www.udemy.com/swift-4-uikit-2017/)
+
+- [Swift 4 İle Mobil İOS Uygulama Meditasyon Uygulaması](https://www.udemy.com/swift-4-ile-mobil-ios-uygulama-meditasyon-uygulamasi/)
+
+- [The Complete iOS 10 Developer - Create Real Apps in Swift 3](https://www.udemy.com/the-complete-ios-10-developer-course/)
+
+- [Your First Swift 4 Project - A Swift Tutorial for Beginners](https://www.udemy.com/your-first-swift-project-a-swift-tutorial-for-beginners/)
+
+- [Introduction to iOS 11 Development: Swift 4 and Xcode 9](https://www.udemy.com/ios11development/)
+
+- [Learn Swift Programming for Beginners (Updated 2017)](https://www.udemy.com/learn-swift-programming-beginners/)
+
+- [Swift Programming For Beginners - No Programming Experience](https://www.udemy.com/swift-programming-for-beginners-no-experience/)
+
+- [The Complete Swift 4 Bootcamp](https://www.udemy.com/learnswift/)
+
+- [Swift 3 - Create A Simple iOS Game](https://www.udemy.com/swift-3-game/)
+
+- [Swift Programming for Beginners](https://www.udemy.com/swift-programming-from-learner-to-earner/)
+
+- [Swift 3 Basics - Learn to Code the Right Way for iOS 10](https://www.udemy.com/swift3basicslearntocodetherightwayforios10/)
+
+- [Swift 4, Xcode 9: User Registration Flow and iOS Keychain](https://www.udemy.com/swift-4-xcode-9-user-registration-flow-and-ios-keychain/)
+
+- [Build Great IOS Apps (Swift)](https://www.udemy.com/build-great-ios-apps-with-swift/)
+
+- [Swift 3 & Xcode 8 in 1 hour](https://www.udemy.com/swift-3-xcode-8-in-1-hour/)
+
+- [Basic Swift 4 and iOS 11 - Free Preview](https://www.udemy.com/the-complete-ios-developer-course/)
+
+- [Functions and Closures in Swift](https://www.udemy.com/functional-programming-in-swift/)
+
+
+- [Create a Live Update chat app with Swift IOS8 and Xcode.](https://www.udemy.com/swiftprogramming/)
+
+- [Social App with Swift 4 & Firebase 4, Xcode 9 For iOS 11](https://www.udemy.com/social-app-with-swift-4-firebase-4-xcode-9-for-ios-11/)
+
+- [Thinking Functionally in Swift](https://www.udemy.com/thinking-functionally-in-swift/)
+
+- [Swift from scratch - learn programming on iOS](https://www.udemy.com/swift-from-scratch-learn-programming-on-ios/)
 ## Vuejs
 - [Learn Vuejs by Making Applications](https://www.udemy.com/learn-vuejs-by-making-applications-bangla-tutorial/)
 
