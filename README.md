@@ -940,6 +940,8 @@
 - [Thinking Functionally in Swift](https://www.udemy.com/thinking-functionally-in-swift/)
 
 - [Swift from scratch - learn programming on iOS](https://www.udemy.com/swift-from-scratch-learn-programming-on-ios/)
+
+- [Swift Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=comQ1-x2a1Q "Swift Tutorial - Full Course for Beginners")
 ## Vuejs
 - [Learn Vuejs by Making Applications](https://www.udemy.com/learn-vuejs-by-making-applications-bangla-tutorial/)
 
