@@ -796,6 +796,8 @@
 - [Curso de Testes para Ruby on Rails com RSpec](https://www.udemy.com/curso-de-testes-ruby-com-rspec/)
 
 - [Ruby Programming Language - Full Course](https://www.youtube.com/watch?v=t_ispmWmdjY)
+
+[Python Tutorial for Beginners | Full Python Programming Course [2019]](https://www.youtube.com/watch?v=_uQrJ0TkZlc "Python Tutorial for Beginners | Full Python Programming Course [2019]")
 ## React
 
 - [React basic in just 1 hour](https://www.udemy.com/react-basic-in-just-1-hour/)
