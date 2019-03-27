@@ -17,121 +17,121 @@
 
 ## Android
 
-[Android Programlama için Java ve XML](https://www.udemy.com/android-programlama-icin-java-ve-xml/ "Android Programlama için Java ve XML")
+- [Android Programlama için Java ve XML](https://www.udemy.com/android-programlama-icin-java-ve-xml/ "Android Programlama için Java ve XML")
 
-[Davud Hoca ile Java ve Android](https://www.udemy.com/android-programlama-giris/ "Davud Hoca ile Java ve Android")
+- [Davud Hoca ile Java ve Android](https://www.udemy.com/android-programlama-giris/ "Davud Hoca ile Java ve Android")
 
-[Java ile Android P Mobil Uygulama Meditasyon Uygulaması](https://www.udemy.com/java-ile-android-p-mobil-uygulama-meditasyon-uygulamasi/ "Java ile Android P Mobil Uygulama Meditasyon Uygulaması")
+- [Java ile Android P Mobil Uygulama Meditasyon Uygulaması](https://www.udemy.com/java-ile-android-p-mobil-uygulama-meditasyon-uygulamasi/ "Java ile Android P Mobil Uygulama Meditasyon Uygulaması")
 
-[Sıfırdan App Invertor İle Android Programlama Öğrenin](https://www.udemy.com/sfrdan-app-invertor-ile-android-programlama-ogrenin/ "Sıfırdan App Invertor İle Android Programlama Öğrenin")
+- [Sıfırdan App Invertor İle Android Programlama Öğrenin](https://www.udemy.com/sfrdan-app-invertor-ile-android-programlama-ogrenin/ "Sıfırdan App Invertor İle Android Programlama Öğrenin")
 
-[Flexapp ile Android ve IOS uygulama geliştirme](https://www.udemy.com/flexapp-ile-kod-yazmadan-android-ve-ios-uygulama-gelistirme/ "Flexapp ile Android ve IOS uygulama geliştirme")
+- [Flexapp ile Android ve IOS uygulama geliştirme](https://www.udemy.com/flexapp-ile-kod-yazmadan-android-ve-ios-uygulama-gelistirme/ "Flexapp ile Android ve IOS uygulama geliştirme")
 
-[Android Uygulama Geliştirme Kursu](https://www.udemy.com/xamarin-android/ "Android Uygulama Geliştirme Kursu")
+- [Android Uygulama Geliştirme Kursu](https://www.udemy.com/xamarin-android/ "Android Uygulama Geliştirme Kursu")
 
-[App Inventor Eğitimi](https://www.udemy.com/app-inventor-egitimi/ "App Inventor Eğitimi")
+- [App Inventor Eğitimi](https://www.udemy.com/app-inventor-egitimi/ "App Inventor Eğitimi")
 
-[Xamarin İle İos ve Android Uygulama Geliştirme](https://www.udemy.com/xamarin-forms-ile-ios-ve-android-uygulama-gelistirme/ "Xamarin İle İos ve Android Uygulama Geliştirme")
+- [Xamarin İle İos ve Android Uygulama Geliştirme](https://www.udemy.com/xamarin-forms-ile-ios-ve-android-uygulama-gelistirme/ "Xamarin İle İos ve Android Uygulama Geliştirme")
 
-[Become an Android Developer from Scratch](https://www.udemy.com/become-an-android-developer-from-scratch/ "Become an Android Developer from Scratch")
+- [Become an Android Developer from Scratch](https://www.udemy.com/become-an-android-developer-from-scratch/ "Become an Android Developer from Scratch")
 
-[Learn Android Application Development](https://www.udemy.com/learn-android-application-development-y/ "Learn Android Application Development")
+- [Learn Android Application Development](https://www.udemy.com/learn-android-application-development-y/ "Learn Android Application Development")
 
-[Mobile App Development in 27 Minutes: Android](https://www.udemy.com/create-an-android-app-in-12-minutes-with-android-studio/ "Mobile App Development in 27 Minutes: Android")
+- [Mobile App Development in 27 Minutes: Android](https://www.udemy.com/create-an-android-app-in-12-minutes-with-android-studio/ "Mobile App Development in 27 Minutes: Android")
 
-[Android Development from Scratch to Create Cool Apps!](https://www.udemy.com/sisoft-android-basic-to-create-cool-apps/ "Android Development from Scratch to Create Cool Apps!")
+- [Android Development from Scratch to Create Cool Apps!](https://www.udemy.com/sisoft-android-basic-to-create-cool-apps/ "Android Development from Scratch to Create Cool Apps!")
 
-[Android Development for Newbies (8+ Hours of Content)](https://www.udemy.com/learn-by-doing-android-for-beginners/ "Android Development for Newbies (8+ Hours of Content)")
+- [Android Development for Newbies (8+ Hours of Content)](https://www.udemy.com/learn-by-doing-android-for-beginners/ "Android Development for Newbies (8+ Hours of Content)")
 
-[The Complete Android Nougat Tutorial - Make 30 Apps](https://www.udemy.com/the-complete-android-tutorial-for-beginners/ "The Complete Android Nougat Tutorial - Make 30 Apps")
+- [The Complete Android Nougat Tutorial - Make 30 Apps](https://www.udemy.com/the-complete-android-tutorial-for-beginners/ "The Complete Android Nougat Tutorial - Make 30 Apps")
 
-[Android Fundamentals: Ultimate Tutorial for App Development](https://www.udemy.com/ultimate-android-lollipop-app-development-course/ "Android Fundamentals: Ultimate Tutorial for App Development")
+- [Android Fundamentals: Ultimate Tutorial for App Development](https://www.udemy.com/ultimate-android-lollipop-app-development-course/ "Android Fundamentals: Ultimate Tutorial for App Development")
 
-[Android Processes, Threads Slidenerd Style](https://www.udemy.com/master-android-zero-to-hero/ "Android Processes, Threads Slidenerd Style")
+- [Android Processes, Threads Slidenerd Style](https://www.udemy.com/master-android-zero-to-hero/ "Android Processes, Threads Slidenerd Style")
 
-[Learn Android 4.0 Programming in Java](https://www.udemy.com/android-tutorial/ "Learn Android 4.0 Programming in Java")
+- [Learn Android 4.0 Programming in Java](https://www.udemy.com/android-tutorial/ "Learn Android 4.0 Programming in Java")
 
-[Android Tutorial for Beginners . Make App That Sells](https://www.udemy.com/android-studio-tutorial-for-beginners/ "Android Tutorial for Beginners . Make App That Sells")
+- [Android Tutorial for Beginners . Make App That Sells](https://www.udemy.com/android-studio-tutorial-for-beginners/ "Android Tutorial for Beginners . Make App That Sells")
 
-[Android App Development using Kotlin](https://www.udemy.com/android-app-development-using-kotlin/ "Android App Development using Kotlin")
+- [Android App Development using Kotlin](https://www.udemy.com/android-app-development-using-kotlin/ "Android App Development using Kotlin")
 
-[Your First Simple Android App in Java](https://www.udemy.com/android-app-quick/ "Your First Simple Android App in Java")
+- [Your First Simple Android App in Java](https://www.udemy.com/android-app-quick/ "Your First Simple Android App in Java")
 
-[Android for Beginners](https://www.udemy.com/s2k-android-beginners/ "Android for Beginners")
+- [Android for Beginners](https://www.udemy.com/s2k-android-beginners/ "Android for Beginners")
 
-[Android Programming From Scratch - For Beginners](https://www.udemy.com/android-programming-from-scratch-for-beginners/ "Android Programming From Scratch - For Beginners")
+- [Android Programming From Scratch - For Beginners](https://www.udemy.com/android-programming-from-scratch-for-beginners/ "Android Programming From Scratch - For Beginners")
 
-[Interesting Android Libraries.](https://www.udemy.com/interesting-android-libraries/ "Interesting Android Libraries.")
+- [Interesting Android Libraries.](https://www.udemy.com/interesting-android-libraries/ "Interesting Android Libraries.")
 
-[The Complete Android Oreo(8.1) , N ,M and Java Development](https://www.udemy.com/the-complete-android8-oreo-nougat-m-java-development/ "The Complete Android Oreo(8.1) , N ,M and Java Development")
+- [The Complete Android Oreo(8.1) , N ,M and Java Development](https://www.udemy.com/the-complete-android8-oreo-nougat-m-java-development/ "The Complete Android Oreo(8.1) , N ,M and Java Development")
 
-[Android App Development with Parse and Android Studio IDE](https://www.udemy.com/android-app-development-with-parse-and-android-studio-ide/ "Android App Development with Parse and Android Studio IDE")
+- [Android App Development with Parse and Android Studio IDE](https://www.udemy.com/android-app-development-with-parse-and-android-studio-ide/ "Android App Development with Parse and Android Studio IDE")
 
-[Beginning with Android Development : First App and Beyond](https://www.udemy.com/beginning-with-android-development-first-app-and-beyond/ "Beginning with Android Development : First App and Beyond")
+- [Beginning with Android Development : First App and Beyond](https://www.udemy.com/beginning-with-android-development-first-app-and-beyond/ "Beginning with Android Development : First App and Beyond")
 
-[Android app monetization (free version)](https://www.udemy.com/android-app-monetization-free-version/ "Android app monetization (free version)")
+- [Android app monetization (free version)](https://www.udemy.com/android-app-monetization-free-version/ "Android app monetization (free version)")
 
-[Learn Android Wear Programming](https://www.udemy.com/learn-android-wear-programming/ "Learn Android Wear Programming")
+- [Learn Android Wear Programming](https://www.udemy.com/learn-android-wear-programming/ "Learn Android Wear Programming")
 
-[Java and Android Fundamentals](https://www.udemy.com/java-and-android-fundamentals/ "Java and Android Fundamentals")
+- [Java and Android Fundamentals](https://www.udemy.com/java-and-android-fundamentals/ "Java and Android Fundamentals")
 
-[Android Material Design Slidenerd Style](https://www.udemy.com/android-material-design-zero-to-hero/ "Android Material Design Slidenerd Style")
+- [Android Material Design Slidenerd Style](https://www.udemy.com/android-material-design-zero-to-hero/ "Android Material Design Slidenerd Style")
 
-[Introduction to Android Volley Programming](https://www.udemy.com/introduction-to-android-volley-programming/ "Introduction to Android Volley Programming")
+- [Introduction to Android Volley Programming](https://www.udemy.com/introduction-to-android-volley-programming/ "Introduction to Android Volley Programming")
 
-[Integrating Parse into an Android Chat app template](https://www.udemy.com/integrating-parse-into-an-android-chat-app-template/ "Integrating Parse into an Android Chat app template")
+- [Integrating Parse into an Android Chat app template](https://www.udemy.com/integrating-parse-into-an-android-chat-app-template/ "Integrating Parse into an Android Chat app template")
 
-[How to publish an Android App on Google Play Store](https://www.udemy.com/how-to-publish-an-android-app-the-right-way/ "How to publish an Android App on Google Play Store")
+- [How to publish an Android App on Google Play Store](https://www.udemy.com/how-to-publish-an-android-app-the-right-way/ "How to publish an Android App on Google Play Store")
 
-[Total Beginners' Guide: How to use an Android Smartphone](https://www.udemy.com/androidbeginners/ "Total Beginners' Guide: How to use an Android Smartphone")
+- [Total Beginners' Guide: How to use an Android Smartphone](https://www.udemy.com/androidbeginners/ "Total Beginners' Guide: How to use an Android Smartphone")
 
-[Beginners Android App Development Course Stepwise-Classroom](https://www.udemy.com/codekul-android-online-course-training/ "Beginners Android App Development Course Stepwise-Classroom")
+- [Beginners Android App Development Course Stepwise-Classroom](https://www.udemy.com/codekul-android-online-course-training/ "Beginners Android App Development Course Stepwise-Classroom")
 
-[300+ Q&As - Ace your Android Developer Test or Interview](https://www.udemy.com/androidinterview/ "300+ Q&As - Ace your Android Developer Test or Interview")
+- [300+ Q&As - Ace your Android Developer Test or Interview](https://www.udemy.com/androidinterview/ "300+ Q&As - Ace your Android Developer Test or Interview")
 
-[How To Build Mobile App Without Programming - Build 14 Apps!](https://www.udemy.com/how-to-build-mobile-app-without-programming-skills/ "How To Build Mobile App Without Programming - Build 14 Apps!")
+- [How To Build Mobile App Without Programming - Build 14 Apps!](https://www.udemy.com/how-to-build-mobile-app-without-programming-skills/ "How To Build Mobile App Without Programming - Build 14 Apps!")
 
-[The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/the-complete-flutter-app-development-course-for-android-ios/ "The Complete Flutter App Development Course for Android, iOS")
+- [The Complete Flutter App Development Course for Android, iOS](https://www.udemy.com/the-complete-flutter-app-development-course-for-android-ios/ "The Complete Flutter App Development Course for Android, iOS")
 
-[How To Make App For Iphone, Android, Kindle Without Coding](https://www.udemy.com/create-apps-without-technical-skills/ "How To Make App For Iphone, Android, Kindle Without Coding")
+- [How To Make App For Iphone, Android, Kindle Without Coding](https://www.udemy.com/create-apps-without-technical-skills/ "How To Make App For Iphone, Android, Kindle Without Coding")
 
-[Native Android App Tutorial: WhatsApp Clone](https://www.youtube.com/watch?v=988UZFB0heA "Native Android App Tutorial: WhatsApp Clone")
+- [Native Android App Tutorial: WhatsApp Clone](https://www.youtube.com/watch?v=988UZFB0heA "Native Android App Tutorial: WhatsApp Clone")
 
-[Deploying Android Apps to Different App Stores - Correctly!](https://www.udemy.com/deploying-android-apps-to-different-app-stores-correctly/ "Deploying Android Apps to Different App Stores - Correctly!")
+- [Deploying Android Apps to Different App Stores - Correctly!](https://www.udemy.com/deploying-android-apps-to-different-app-stores-correctly/ "Deploying Android Apps to Different App Stores - Correctly!")
 
-[A Professional APP Development Course for iPhone and Android](https://www.udemy.com/a-professional-app-development-course-for-iphone-and-android/ "A Professional APP Development Course for iPhone and Android")
+- [A Professional APP Development Course for iPhone and Android](https://www.udemy.com/a-professional-app-development-course-for-iphone-and-android/ "A Professional APP Development Course for iPhone and Android")
 
-[Xamarin Forms for Android and iOS Native Development](https://www.udemy.com/xamarin-forms-free/ "Xamarin Forms for Android and iOS Native Development")
+- [Xamarin Forms for Android and iOS Native Development](https://www.udemy.com/xamarin-forms-free/ "Xamarin Forms for Android and iOS Native Development")
 
-[Absolute Java Basics for Android](https://www.udemy.com/absolute-java-basics-for-android/ "Absolute Java Basics for Android")
+- [Absolute Java Basics for Android](https://www.udemy.com/absolute-java-basics-for-android/ "Absolute Java Basics for Android")
 
-[Kotlin for Beginners: Next Android platform language](https://www.udemy.com/kotlin-for-beginners-next-android-platform-language/ "Kotlin for Beginners: Next Android platform language")
+- [Kotlin for Beginners: Next Android platform language](https://www.udemy.com/kotlin-for-beginners-next-android-platform-language/ "Kotlin for Beginners: Next Android platform language")
 
-[PHONEGAP CRASH COURSE: Learn Mobile App Development](https://www.udemy.com/free-phonegap-crash-course-learn-to-build-mobile-application/ "PHONEGAP CRASH COURSE: Learn Mobile App Development")
+- [PHONEGAP CRASH COURSE: Learn Mobile App Development](https://www.udemy.com/free-phonegap-crash-course-learn-to-build-mobile-application/ "PHONEGAP CRASH COURSE: Learn Mobile App Development")
 
-[The Kotlin Language: Fundamentals and Basics](https://www.udemy.com/kotlin-programming/ "The Kotlin Language: Fundamentals and Basics")
+- [The Kotlin Language: Fundamentals and Basics](https://www.udemy.com/kotlin-programming/ "The Kotlin Language: Fundamentals and Basics")
 
-[Game Development Crash Course w/Corona SDK: You Can Do It!](https://www.udemy.com/game-development-crash-course/ "Game Development Crash Course w/Corona SDK: You Can Do It!")
+- [Game Development Crash Course w/Corona SDK: You Can Do It!](https://www.udemy.com/game-development-crash-course/ "Game Development Crash Course w/Corona SDK: You Can Do It!")
 
-[Mobile App Marketing at No Cost - Growth Hacking Approach](https://www.udemy.com/app-store-optimization-aso-sensortower-mobile-seo-app-ranking/ "Mobile App Marketing at No Cost - Growth Hacking Approach")
+- [Mobile App Marketing at No Cost - Growth Hacking Approach](https://www.udemy.com/app-store-optimization-aso-sensortower-mobile-seo-app-ranking/ "Mobile App Marketing at No Cost - Growth Hacking Approach")
 
-[Livecode : One code to rule them all](https://www.udemy.com/livecode101/ "Livecode : One code to rule them all")
+- [Livecode : One code to rule them all](https://www.udemy.com/livecode101/ "Livecode : One code to rule them all")
 
-[Java for Mobile Devices - iOS/Android/Win (Phones & Tablets)](https://www.udemy.com/java-for-mobile-devices/ "Java for Mobile Devices - iOS/Android/Win (Phones & Tablets)")
+- [Java for Mobile Devices - iOS/Android/Win (Phones & Tablets)](https://www.udemy.com/java-for-mobile-devices/ "Java for Mobile Devices - iOS/Android/Win (Phones & Tablets)")
 
-[Game Development (Android + IOS): Build 12 Apps & Games](https://www.udemy.com/android-game-development-using-python-build-12-apps-games/ "Game Development (Android + IOS): Build 12 Apps & Games")
+- [Game Development (Android + IOS): Build 12 Apps & Games](https://www.udemy.com/android-game-development-using-python-build-12-apps-games/ "Game Development (Android + IOS): Build 12 Apps & Games")
 
-[Gherkin and Cucumber: BDD Testing for IOS, Android, and Web](https://www.udemy.com/gherkin-and-cucumber-bdd-testing-for-apps-and-websites/)
+- [Gherkin and Cucumber: BDD Testing for IOS, Android, and Web](https://www.udemy.com/gherkin-and-cucumber-bdd-testing-for-apps-and-websites/)
 
-[ANDROID ETHICAL HACKING COURSE, C, C++, Python Programs](https://www.udemy.com/android-ethical-hacking-course-c-c-python-programs/ "ANDROID ETHICAL HACKING COURSE, C, C++, Python Programs")
+- [ANDROID ETHICAL HACKING COURSE, C, C++, Python Programs](https://www.udemy.com/android-ethical-hacking-course-c-c-python-programs/ "ANDROID ETHICAL HACKING COURSE, C, C++, Python Programs")
 
-[Introduction to Xamarin.Android](https://www.udemy.com/introduction-to-xamarinandroid/ "Introduction to Xamarin.Android")
+- [Introduction to Xamarin.Android](https://www.udemy.com/introduction-to-xamarinandroid/ "Introduction to Xamarin.Android")
 
-[Automate everything with Katalon Studio](https://www.udemy.com/katalon-studio/ "Automate everything with Katalon Studio")
+- [Automate everything with Katalon Studio](https://www.udemy.com/katalon-studio/ "Automate everything with Katalon Studio")
 
-[Vuforia Augmented Reality Apps With Unity3D](https://www.udemy.com/vuforia-augmented-reality-apps-with-unity3d/ "Vuforia Augmented Reality Apps With Unity3D")
+- [Vuforia Augmented Reality Apps With Unity3D](https://www.udemy.com/vuforia-augmented-reality-apps-with-unity3d/ "Vuforia Augmented Reality Apps With Unity3D")
 
-[Learn Flutter - Beginners Course](https://www.udemy.com/learn-flutter-beginners-course/ "Learn Flutter - Beginners Course")
+- [Learn Flutter - Beginners Course](https://www.udemy.com/learn-flutter-beginners-course/ "Learn Flutter - Beginners Course")
 
 
 ## Angularjs
