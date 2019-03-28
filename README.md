@@ -496,6 +496,22 @@
 - [Complete guide to MongoDB](https://www.udemy.com/complete-guide-to-mongodb/)
 ## Php
 
+- [PHP and MySQL: Get up to speed with PHP the Easy Way](https://youtu.be/o1wDGaYd1PA "PHP and MySQL: Get up to speed with PHP the Easy Way")
+
+- [PHP and MySQL: Get up to speed with PHP the Easy Way](https://youtu.be/o1wDGaYd1PA "PHP and MySQL: Get up to speed with PHP the Easy Way")
+
+- [PHP OOP - Understand Object Oriented Programming in PHP](https://youtu.be/zKM5Cox1pSQ "PHP OOP - Understand Object Oriented Programming in PHP")
+
+- [Let's Create A Blockchain With Php Beginner](https://youtu.be/UjtidCd5syI "Let's Create A Blockchain With Php Beginner")
+
+- [Laravel E-Commerce Restful API](https://youtu.be/DWhaSbkAAuU "Laravel E-Commerce Restful API")
+
+- [Practical PHP: Master the Basics and Code Dynamic Websites](https://youtu.be/8J4n5urB96I "Practical PHP: Master the Basics and Code Dynamic Websites")
+
+- [PHP Basic Course for Beginners - Full Tutorial](https://youtu.be/-gj83jXx9Xw "PHP Basic Course for Beginners - Full Tutorial")
+
+- [Build a Basic CRUD App with PHP and MySQL](https://youtu.be/hyoIZs5G9a4 "Build a Basic CRUD App with PHP and MySQL")
+
 - [THe PHP Mega Course](https://www.udemy.com/the-php-mega-course/ "THe PHP Mega Course")
 
 - [【最短30分でできる!】Laravel5.7入門: 初心者でも簡単! ブラウザだけでLaravelを使ったWeb開発！](https://www.udemy.com/paizacloud-laravel/ "【最短30分でできる!】Laravel5.7入門: 初心者でも簡単! ブラウザだけでLaravelを使ったWeb開発！")
@@ -876,6 +892,31 @@
 
 - [Python Django Framework Full Course - Learning with the Docs](https://www.youtube.com/watch?v=cI3FOYIMSYE)
 
+- [Python Tutorial for Beginners | Full Python Programming Course [2019]](https://www.youtube.com/watch?v=_uQrJ0TkZlc "Python Tutorial for Beginners | Full Python Programming Course [2019]")
+
+- [Python Tutorial - Complete Python Programming Tutorial for Beginners Part 1/2](https://www.youtube.com/watch?v=dlSkHcxkdVo "Python Tutorial - Complete Python Programming Tutorial for Beginners Part 1/2")
+
+- [Python Tutorial - Complete Python Programming Tutorial for Beginners Part 2/2](https://www.youtube.com/watch?v=1Mo5hhAuNU0 "Python Tutorial - Complete Python Programming Tutorial for Beginners Part 2/2")
+
+- [Complete Python 3 Programming Tutorial](https://www.youtube.com/watch?v=KUfQ1U4LfRU "Complete Python 3 Programming Tutorial")
+
+- [Complete Python: Go from zero to hero in Python](https://youtu.be/9mUfWE_8x34 "Complete Python: Go from zero to hero in Python")
+
+- [Python Web Scraping Tools: A Survey](https://youtu.be/ind-mugxMxk "Python Web Scraping Tools: A Survey")
+
+- [Learn Python 3 Programming for Beginners](https://youtu.be/2u7iMmE9EGA "Learn Python 3 Programming for Beginners")
+
+- [Python For Data Analysis | Build a Data Analysis Library from Scratch | Learn Python in 2019](https://youtu.be/xTc4-HnwBzg "Python For Data Analysis | Build a Data Analysis Library from Scratch | Learn Python in 2019")
+
+- [Django for Beginners: The Ultimate Course for Web Developers](https://youtu.be/JiNLRtrUjOE "Django for Beginners: The Ultimate Course for Web Developers")
+
+- [MySQL Databases With Python Tutorial](https://youtu.be/tGinfzlp0fE "MySQL Databases With Python Tutorial")
+
+- [Creating Web Sites using Python and Flask](https://youtu.be/EL-i8XOAil8 "Creating Web Sites using Python and Flask")
+
+- [Introduction to Data Science using Python](https://youtu.be/6J-D4_1fSyY "Introduction to Data Science using Python")
+
+
 ## Ruby
 - [8 Beautiful Ruby on Rails Apps in 30 Days & TDD - Immersive](https://www.udemy.com/8-beautiful-ruby-on-rails-apps-in-30-days/)
 
@@ -919,7 +960,7 @@
 
 - [Ruby Programming Language - Full Course](https://www.youtube.com/watch?v=t_ispmWmdjY)
 
-[Python Tutorial for Beginners | Full Python Programming Course [2019]](https://www.youtube.com/watch?v=_uQrJ0TkZlc "Python Tutorial for Beginners | Full Python Programming Course [2019]")
+
 ## React
 
 - [React basic in just 1 hour](https://www.udemy.com/react-basic-in-just-1-hour/)
@@ -972,6 +1013,12 @@
 - [Learn Redux In One Video - Redux / React Tutorial](https://www.youtube.com/watch?v=9fHQI-dt7QU)
 
 - [React Fundamentals - Full Course for Beginners](https://www.youtube.com/watch?v=6Ied4aZxUzc)
+
+- [Learn React 2019 - Full Course for Beginners - React 2019 Tutorial](https://www.youtube.com/watch?v=Nbi_UI8tPmw "Learn React 2019 - Full Course for Beginners - React 2019 Tutorial")
+
+[Introduction to React](https://youtu.be/S_81yyBwl2s "Introduction to React")
+
+
 ## Swift
 - [Lógica Programación: Aprende Programar en Cualquier Lenguaje](https://www.udemy.com/logica-programacion-aprende-programar-en-cualquier-lenguaje/)
 
@@ -1110,4 +1157,4 @@
 
 - [Learn Vue.js - Full Course for Beginners](https://www.youtube.com/watch?v=4deVCNJq3qc)
 
-[Learn Vue.js from scratch 2018](https://youtu.be/L5oaI-C8Dhc "Learn Vue.js from scratch 2018")
+- [Learn Vue.js from scratch 2018](https://youtu.be/L5oaI-C8Dhc "Learn Vue.js from scratch 2018")
