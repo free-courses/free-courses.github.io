@@ -7,7 +7,7 @@
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.4"
   },
-  "homepage": "https://github.com/free-courses/Full-Free-Courses",
+  "homepage": "https://free-courses.github.io/Full-Free-Courses",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
