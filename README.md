@@ -967,6 +967,7 @@
 
 - [React Fundamentals](https://www.udemy.com/react-fundamentals/)
 
+- [Gatsby JS - The Great Gatsby Bootcamp](https://youtu.be/8t0vNu2fCCM)
 
 - [React 2019: React, Redux, React-Router, Hooks and Auth0](https://www.udemy.com/modern-react/)
 
