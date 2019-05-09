@@ -582,6 +582,8 @@
 
 - [Davud Hoca ile PHP 7](https://www.udemy.com/php7-yeni-ozellikleri/ "Davud Hoca ile PHP 7")
 
+- [Laravel PHP Framework - Full Course for Beginners](https://youtu.be/ImtZ5yENzgE)
+
 - [Aprende PHP desde Cero - Nivel Básico](https://www.udemy.com/aprende-php-desde-cero-nivel-basico-2019/ "Aprende PHP desde Cero - Nivel Básico")
 
 - [Introducción teórica a los frameworks de desarrollo para PHP](https://www.udemy.com/introduccion-teorica-a-los-framework-de-desarrollo-para-php/ "Introducción teórica a los frameworks de desarrollo para PHP")
@@ -601,6 +603,8 @@
 
 
 - [Función "mail" de PHP: Aprende a enviar emails con PHP](https://www.udemy.com/enviar-email-con-php/)
+
+- [Symfony PHP Framework - Full Course](https://youtu.be/Bo0guUbL5uo)
 
 - [PHP Eğitim Seti 1](https://www.udemy.com/php-egitim-seti-1-a/ "PHP Eğitim Seti 1")
 
