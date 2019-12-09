@@ -5,7 +5,7 @@
   },
   {
     "title": "Angular",
-    "icon": "devicon-angular-plain colored"
+    "icon": "devicon-angularjs-plain colored"
   },
   {
     "title": "Bash",
@@ -45,6 +45,6 @@
   },
   {
     "title": "Vuejs",
-    "icon": "devicon-vue-plain colored"
+    "icon": "devicon-vuejs-plain colored"
   }
 ]
