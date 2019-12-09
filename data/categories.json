@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Android",
+    "icon": "devicon-android-plain colored"
+  },
+  {
+    "title": "Angular",
+    "icon": "devicon-angular-plain colored"
+  },
+  {
+    "title": "Bash",
+    "icon": "devicon-linux-plain colored"
+  },
+  {
+    "title": "Docker",
+    "icon": "devicon-docker-plain colored"
+  },
+  {
+    "title": "Go",
+    "icon": "devicon-go-plain colored"
+  },
+  {
+    "title": "Java",
+    "icon": "devicon-java-plain colored"
+  },
+  {
+    "title": "Mongodb",
+    "icon": "devicon-mongodb-plain colored"
+  },
+  {
+    "title": "Php",
+    "icon": "devicon-php-plain colored"
+  },
+  {
+    "title": "Python",
+    "icon": "devicon-python-plain colored"
+  },
+  {
+    "title": "React",
+    "icon": "devicon-react-plain colored"
+  },
+  {
+    "title": "Swift",
+    "icon": "devicon-swift-plain colored"
+  },
+  {
+    "title": "Vuejs",
+    "icon": "devicon-vue-plain colored"
+  }
+]
