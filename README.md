@@ -1162,4 +1162,3 @@
 
 - [Learn Vue.js - Full Course for Beginners](https://www.youtube.com/watch?v=4deVCNJq3qc)
 
-- Adding a new line
