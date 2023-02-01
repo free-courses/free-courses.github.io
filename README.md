@@ -1162,3 +1162,4 @@
 
 - [Learn Vue.js - Full Course for Beginners](https://www.youtube.com/watch?v=4deVCNJq3qc)
 
+- [Vue.js - Complete Course For Beginners](https://www.udemy.com/course/vuejs-complete-course-for-beginners/)
