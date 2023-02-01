@@ -1162,4 +1162,4 @@
 
 - [Learn Vue.js - Full Course for Beginners](https://www.youtube.com/watch?v=4deVCNJq3qc)
 
-- [Learn Vue.js from scratch 2018](https://youtu.be/L5oaI-C8Dhc "Learn Vue.js from scratch 2018")
+- Adding a new line
